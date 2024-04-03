@@ -1,0 +1,43 @@
+
+
+
+.custom-ag-grid-container {
+
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    top: 71px;
+    left: 23%;
+}
+
+.add {
+    text-align: right;
+    margin: 9px;
+}
+
+/* .modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    /* display: flex; */
+    /* align-items: center;
+    justify-content: center; */
+  /* }* */
+  
+  /* .modal-content {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+  } */
+  
+
+  
+  
+  
+  
+  
