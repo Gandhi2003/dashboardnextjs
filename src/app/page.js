@@ -1,14 +1,14 @@
 "use client"
 import { useRouter } from "next/navigation";
 export default function Home() {
-    const router=useRouter();
-    function Loginpages(e){
+    const router = useRouter();
+    function Loginpages(e) {
         e.preventDefault();
-        router.push("/Login")
+        router.push("/dashboard/Login")
     }
-    function Register(e){
+    function Register(e) {
         e.preventDefault();
-        router.push("/RegisreterForm")
+        router.push("/dashboard/register")
     }
     return (
         <div className="container my-5  ">
